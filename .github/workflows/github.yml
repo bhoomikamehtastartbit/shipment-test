@@ -1,4 +1,4 @@
-name: Shipment-backend-test
+name: Shipment-backend-testing
 
 on:
   push:
